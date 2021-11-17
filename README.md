@@ -14,7 +14,7 @@ This project was created utilizing reusable components in React. I created an in
 
 Print of the finished project.
 
-![plot](./image/snapshot-1.png)
+![plot](./snapshot-1.png)
 
 ### Libraries used
 
