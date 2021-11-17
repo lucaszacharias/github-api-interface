@@ -22,13 +22,11 @@ Print of the finished project.
 - [react-tabs](https://www.npmjs.com/package/react-tabs)
 - [styled-components](https://styled-components.com/)
 
-## Available Scripts
+## See it working
 
-In the project directory, you can run:
+you can access the link below to access the application:
 
-### `yarn start`
+### `https://github-interface-api.herokuapp.com/`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
