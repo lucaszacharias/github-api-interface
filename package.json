@@ -2,9 +2,6 @@
   "name": "github-api",
   "version": "0.1.0",
   "private": true,
-  "engines": {
-    "node": "16.13.0"
-  }
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -16,6 +13,9 @@
     "react-tabs": "^3.2.1",
     "styled-components": "^5.2.1",
     "web-vitals": "^1.0.1"
+  },
+  "engines": {
+    "node": "16.13.0"
   },
   "scripts": {
     "start": "react-scripts start",
